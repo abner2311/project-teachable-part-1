@@ -1,0 +1,20 @@
+body{
+    color:white;
+    background:blue;
+}
+.heading{
+    width:80%;
+    font-size:22px;
+}
+.name_of_humans{
+    color:yellowgreen;
+}
+#camera{
+    border:2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.name_of_humans, #result_human_name
+{color:turquoise;}
+.name_of_humans, #result_human_name, #result_human_accuracy
+{color:turquoise;}
